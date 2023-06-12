@@ -1,2 +1,2 @@
 # Prova-A-Scripts
-Avaliação A da disciplina de Programação de Scripts
+Avaliação A referente a disciplina de Programação de Scripts.
